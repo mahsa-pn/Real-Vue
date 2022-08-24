@@ -1,5 +1,5 @@
 {
-  "events":[
+  "events": [
         {
         "id":1,
         "title":"titleee1",
@@ -29,6 +29,6 @@
         "title":"titleee5",
         "description":"description5555555",
         "date":"date555"
-        },
+        }
     ]
 }
