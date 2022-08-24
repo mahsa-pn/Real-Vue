@@ -1,5 +1,5 @@
-
-  events:[
+{
+  "events":[
       {
         id:1,
         title:'titleee1',
@@ -31,3 +31,4 @@
         date:'date555'
         },
     ]
+}
